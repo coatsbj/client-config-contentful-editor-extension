@@ -1,0 +1,5 @@
+{
+  "id": "client-config-entry-editor-extension",
+  "name": "Client Config Editor Extension",
+  "srcdoc": "./build/index.html"
+}
